@@ -1,0 +1,60 @@
+body{
+    background-color: yellow;
+    font-family: 'Arial';
+    font-size: 18px;
+    color: blue;
+
+}
+h1{
+    color: green;
+    font-family: Indie Flower;
+    font-size: 48px;
+}
+
+
+#me{
+    color: purple;
+    font-size:14px;
+  }
+
+#blah{
+  color:green;
+  font-size:14px;
+  text-decoration: line-through;
+}
+
+.explore{
+  margin: 10px;
+  color: red;
+}
+.photo{
+border-radius: 50%;
+max-width: 40%;
+}
+
+.mydiv{
+  background-color:pink;
+  padding: 10px;
+  border: 5px dashed;
+  margin: 10;
+  border-top: 0.5em solid #FF00FF;
+}
+
+.div2{
+  background-color: #E8787A;
+  padding:5px;
+  border:2px dotted;
+  border-color: purple;
+  margin:0
+}
+
+.div3{
+  background-position: center;
+  background-color: #9666FF
+}
+
+.div4{
+    background-position: right;
+    border-bottom: 3px dashed;
+    border-color: black;
+}
